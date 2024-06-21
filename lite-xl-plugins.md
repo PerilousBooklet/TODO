@@ -1,0 +1,37 @@
+
+- [ ] Write `language_manpage` and `language_awk`
+- [ ] SCM: all still open files must close after doing a `git checkout branchname`
+- [ ] SCM: add git icons
+- [ ] Create a plugin to download/unpack/deobfuscate/decompile Java libs (and Minecraft jar files)
+- [ ] DEVICONS: Fix and add V, F#, AWK, icons
+- [ ] Write `language_autohotkey_v2.lua`
+- [ ] TODOTREEVIEW: add config options with `.merge`
+- [ ] TODOTREEVIEW: decrease space between icon and text
+- [ ] TODOTREEVIEW: complete dev branch (?)
+- [ ] Add java annotation syntax
+- [ ] PTM: add auto-fill for java class/interface/enum files upon creation
+- [ ] `regex:find` and `regex:replace` need to be more visible
+- [ ] Update file extensions for `devicons`, `lsp`, `lintplus` and all related `language_...` plugins
+- [ ] Write a plugin that fills a newly-created java class/interface/enum file with the package path, class/interface/enum name and constructor
+- [ ] MDPREVIEW: add table support to `luamd`
+- [ ] MDPREVIEW: add obsidian blockquotes support to `luamd`
+- [ ] MDPREVIEW: add code to enable an easy addition of custom HTML/CSS (es. Github's labels, Obsidian's blockquotes, ...)
+- [ ] BUG: tabicons which use an extension that contains another extension (at the end: es. `.config.js`) do not show their icon, instead they show the parent extension's icon
+- [ ] BUG: https://github.com/lite-xl/lite-xl-ide/issues/3
+- [ ] BUG: `todotreeview` sometimes opens with a very reduced width
+- [ ] BUG: `lint+` can't open `.nim` files
+- [ ] BUG: `language_bash`: whenever a string followed by the `{` character is written, the syntax highlighting registers that the string is still open (as if there was a missing `}`)
+- [ ] BUG: julia lsp linter isn't enabled (custom config file ?)
+- [ ] BUG: julia lsp linter can't get init answer
+- [ ] BUG: LSP: `texlab`: `\begin` doesn't trigger autocomplete on choice selection
+- [ ] MISSING FEATURE: SCM: lacks proper git support (VSCode-like)
+- [ ] MISSING FEATURE: project-wide refactoring command + custom tab to choose which entries to ignore
+- [ ] MISSING FEATURE: doc symbols treeview
+- [ ] MISSING FEATURE: `lint+` lacks multi-line message support
+- [ ] MISSING FEATURE: open image/sound/video/... with previously-specified external program
+- [ ] MISSING FEATURE: 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+

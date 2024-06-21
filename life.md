@@ -1,0 +1,67 @@
+(This document was created on the 20th of June in 2024)
+
+- [ ] Finish [River](https://isaacfreund.com/software/river/) WM setup
+- [ ] Buy [MakeMKV](https://www.makemkv.com/) license
+- [ ] Write custom menu template for [rofi](https://github.com/davatorium/rofi)
+- [ ] Write CV INFO and DESC
+- [ ] Add custom title to rofi workspace script
+- [ ] Tinker with eww widgets
+- [ ] Complete my custom LaTeX book package
+- [ ] Prepare engineering notes for [Docsity](https://www.docsity.com/en/)
+- [ ] Remove custom GUI textures from [Tom's Storage Create GUI](https://www.curseforge.com/minecraft/texture-packs/create-simple-storage)
+- [ ] Recover `Halcyon Days Skies` resource pack from `Iskall85's Island` or `Iskall85's Survival Stories 3`
+- [ ] Copy TBATE
+- [ ] Create Windows 11 VM
+- [ ] Migrate My Arch Linux install to the new ssd
+- [ ] Model Arch Linux logo for my Qube 500 Flatpack
+- [ ] Add `erlang_ls` to the AUR
+- [ ] Tinker with Minecraft 1.20.1 modding
+- [ ] Tinker with Minetest modding
+- [ ] Add popular LaTeX and TikZ snippets to my Lite XL setup
+- [ ] Get rid of GRUB for good on all my machines and setup unified kernel images with Arch Logo boot screen
+- [ ] Take notes of : Grit [ ], Bellezza [ ], Napoleon [ ], Second Brain [ ], How Not to Die [ ], Tecniche di Resistenza Interiore [ ]
+- [ ] Begin writing how-to-articles
+- [ ] Take notes on public speaking and communication tips
+- [ ] Write/contribute-to Steam layer for Subnautica
+- [ ] Get CasaOS WebUI working on Arch Linux
+- [ ] Digitize all my food recipes
+- [ ] Decompile Java deps and write the script
+- [ ] Make a simple mod for Warzone2100
+- [ ] Make simple templates for the following: 
+  - [ ] Bash + dialog
+  - [ ] C + SDL + RAYLIB
+  - [ ] Vala + GTK
+  - [ ] Java + AWT/Swing
+  - [ ] Java + JavaFX
+  - [ ] C++ + Qt
+  - [ ] Python + Renpy (?)
+  - [ ] Java + libgdx
+  - [ ] Lua + love2d
+  - [ ] Rust + GTK
+- [ ] Find a way to synchronize my FreeTube configs between my desktop and my laptop
+- [ ] Learn to write custom TeX classes
+- [ ] Document the answer to the question: is China a dictatorship?
+- [ ] Fix the AUR package for Rigs of Rods
+- [ ] Learn lua meta-tables and lua oop
+- [ ] Learn C basics (understand Guldoman's JSON sniffer)
+- [ ] Learn how to build and run Docker images with `docker` and `docker-compose`
+- [ ] Document which are the major global causes of pollution
+- [ ] Write an bash script that syncs and keeps synced a specific list of repos
+- [ ] Learn to write an article and a blog post
+- [ ] Plan a house security system using open source hardware and software
+- [ ] Setup my own Youtube clone with [MediaCMS](https://mediacms.io/)
+- [ ] Write my own toy scripting language called `broccol`
+- [ ] Create my own card game (?)
+- [ ] Write my personal website with info about who I am and what I do
+- [ ] Build a macro keyboard
+- [ ] Create a custom Cinnamon menu applet that can be centered on the taskbar panel
+- [ ] Design my own ATX computer case based on the Lian LI PC-Q21
+- [ ] Fix the AUR package for Stunt Rally
+- [ ] Make a list of missing icons to add to https://game-icons.net
+- [ ] Check the Awesome projects for missing entries
+- [ ] Mirror all my github repos to [Codeberg](https://codeberg.org/)
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
