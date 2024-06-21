@@ -1,7 +1,6 @@
 - [ ] Write an Obsidian theme
 - [ ] Write a Tomorrow Night theme
-- [ ] 
-- [ ] 
+- [ ] MISSING FEATURE: open image/sound/video/... with previously-specified external program
 - [ ] 
 - [ ] 
 - [ ] 

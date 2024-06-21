@@ -28,8 +28,6 @@
 - [ ] MISSING FEATURE: project-wide refactoring command + custom tab to choose which entries to ignore
 - [ ] MISSING FEATURE: doc symbols treeview
 - [ ] MISSING FEATURE: `lint+` lacks multi-line message support
-- [ ] MISSING FEATURE: open image/sound/video/... with previously-specified external program
-- [ ] MISSING FEATURE: 
 - [ ] 
 - [ ] 
 - [ ] 
