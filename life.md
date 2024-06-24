@@ -60,7 +60,7 @@
 - [ ] Make a list of missing icons to add to https://game-icons.net
 - [ ] Check the Awesome projects for missing entries
 - [ ] Mirror all my github repos to [Codeberg](https://codeberg.org/)
-- [ ] 
+- [ ] Write a simple webapp that keeps track of global food production and related pollution
 - [ ] 
 - [ ] 
 - [ ] 

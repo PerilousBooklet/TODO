@@ -28,6 +28,12 @@
 - [ ] MISSING FEATURE: project-wide refactoring command + custom tab to choose which entries to ignore
 - [ ] MISSING FEATURE: doc symbols treeview
 - [ ] MISSING FEATURE: `lint+` lacks multi-line message support
+- [ ] Add html/css code examples for Github blockquotes (example file in `downloads` folder)
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
