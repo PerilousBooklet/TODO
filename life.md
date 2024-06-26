@@ -46,7 +46,7 @@
 - [ ] Learn C basics (understand Guldoman's JSON sniffer)
 - [ ] Learn how to build and run Docker images with `docker` and `docker-compose`
 - [ ] Document which are the major global causes of pollution
-- [ ] Write an bash script that syncs and keeps synced a specific list of repos
+- [ ] Write a bash script that syncs and keeps synced a specific list of repos
 - [ ] Learn to write an article and a blog post
 - [ ] Plan a house security system using open source hardware and software
 - [ ] Setup my own Youtube clone with [MediaCMS](https://mediacms.io/)
@@ -61,7 +61,7 @@
 - [ ] Check the Awesome projects for missing entries
 - [ ] Mirror all my github repos to [Codeberg](https://codeberg.org/)
 - [ ] Write a simple webapp that keeps track of global food production and related pollution
-- [ ] 
+- [ ] Write a simple webapp that keeps track of the positions of intensive cattle/food production factories
 - [ ] 
 - [ ] 
 
