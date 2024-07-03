@@ -31,7 +31,7 @@
 - [ ] Add html/css code examples for Github blockquotes (example file in `downloads` folder)
 - [ ] Write dashboard plugin
 - [ ] Write a plugin that dynamically updates the treeview's width
-- [ ] 
+- [ ] WIP: add possibility of multiple additional toolbars existing at the same time
 - [ ] 
 - [ ] 
 - [ ] 
