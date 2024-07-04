@@ -11,6 +11,3 @@
 
 - [Programming](programming.md)
 
-- [Learning Web App](webapp-politics.md)
-- [Politics Web App](webapp-learning.md)
-
