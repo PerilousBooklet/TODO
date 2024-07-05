@@ -40,7 +40,6 @@
   - [ ] Rust + GTK
 - [ ] Find a way to synchronize my FreeTube configs between my desktop and my laptop
 - [ ] Learn to write custom TeX classes
-- [ ] Document the answer to the question: is China a dictatorship?
 - [ ] Fix the AUR package for Rigs of Rods
 - [ ] Learn lua meta-tables and lua oop
 - [ ] Learn C basics (understand Guldoman's JSON sniffer)
@@ -62,6 +61,9 @@
 - [ ] Mirror all my github repos to [Codeberg](https://codeberg.org/)
 - [ ] Write a simple webapp that keeps track of global food production and related pollution
 - [ ] Write a simple webapp that keeps track of the positions of intensive cattle/food production factories
-- [ ] 
+- [ ] Setup ChaDWM
+- [ ] Setup River
+- [ ] Setup the Windows 10 UI on Arch with [this](https://www.reddit.com/r/linux/comments/o9l0le/a_program_that_looks_and_works_like_the_windows/)
+- [ ] Setup the Windows 11 UI on Arch with [this](https://www.reddit.com/r/unixporn/comments/13zdhqd/hyprland_windows_rice_with_too_much_eww_with_blur/)
 - [ ] 
 

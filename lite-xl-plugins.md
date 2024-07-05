@@ -1,4 +1,3 @@
-
 - [ ] Write `language_manpage` and `language_awk`
 - [ ] SCM: all still open files must close after doing a `git checkout branchname`
 - [ ] SCM: add git icons
@@ -17,7 +16,6 @@
 - [ ] MDPREVIEW: add obsidian blockquotes support to `luamd`
 - [ ] MDPREVIEW: add code to enable an easy addition of custom HTML/CSS (es. Github's labels, Obsidian's blockquotes, ...)
 - [ ] BUG: tabicons which use an extension that contains another extension (at the end: es. `.config.js`) do not show their icon, instead they show the parent extension's icon
-- [ ] BUG: https://github.com/lite-xl/lite-xl-ide/issues/3
 - [ ] BUG: `todotreeview` sometimes opens with a very reduced width
 - [ ] BUG: `lint+` can't open `.nim` files
 - [ ] BUG: `language_bash`: whenever a string followed by the `{` character is written, the syntax highlighting registers that the string is still open (as if there was a missing `}`)
@@ -32,10 +30,5 @@
 - [ ] Write dashboard plugin
 - [ ] Write a plugin that dynamically updates the treeview's width
 - [ ] WIP: add possibility of multiple additional toolbars existing at the same time
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 - [ ] 
 

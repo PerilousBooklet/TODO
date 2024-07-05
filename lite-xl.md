@@ -5,10 +5,4 @@
 - [ ] MISSING FEATURE: add `create-cursor-all-instances-case-sensitive`
 - [ ] MISSING FEATURE: add `create-cursor-all-instances-case-insensitive`
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+
