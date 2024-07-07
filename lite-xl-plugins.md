@@ -23,7 +23,7 @@
 - [ ] BUG: julia lsp linter can't get init answer
 - [ ] BUG: LSP: `texlab`: `\begin` doesn't trigger autocomplete on choice selection
 - [ ] MISSING FEATURE: SCM: lacks proper git support (VSCode-like)
-- [ ] MISSING FEATURE: project-wide refactoring command + custom tab to choose which entries to ignore
+- [ ] MISSING FEATURE: project-wide refactoring command + custom tab to choose which entries to ignore, see [jgmdev's PR](https://github.com/pragtical/pragtical/pull/48)
 - [ ] MISSING FEATURE: doc symbols treeview
 - [ ] MISSING FEATURE: `lint+` lacks multi-line message support
 - [ ] Add html/css code examples for Github blockquotes (example file in `downloads` folder)
