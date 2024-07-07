@@ -14,7 +14,6 @@
 - [ ] Create Windows 11 VM
 - [ ] Migrate My Arch Linux install to the new ssd
 - [ ] Model Arch Linux logo for my Qube 500 Flatpack
-- [ ] Add `erlang_ls` to the AUR
 - [ ] Tinker with Minecraft 1.20.1 modding
 - [ ] Tinker with Minetest modding
 - [ ] Add popular LaTeX and TikZ snippets to my Lite XL setup
@@ -24,10 +23,9 @@
 - [ ] Take notes on public speaking and communication tips
 - [ ] Write/contribute-to Steam layer for Subnautica
 - [ ] Get CasaOS WebUI working on Arch Linux
-- [ ] Digitize all my food recipes
 - [ ] Decompile Java deps and write the script
 - [ ] Make a simple mod for Warzone2100
-- [ ] Make simple templates for the following: 
+- [ ] Make simple templates for the following:
   - [ ] Bash + dialog
   - [ ] C + SDL + RAYLIB
   - [ ] Vala + GTK
@@ -38,11 +36,10 @@
   - [ ] Java + libgdx
   - [ ] Lua + love2d
   - [ ] Rust + GTK
-- [ ] Find a way to synchronize my FreeTube configs between my desktop and my laptop
 - [ ] Learn to write custom TeX classes
 - [ ] Fix the AUR package for Rigs of Rods
 - [ ] Learn lua meta-tables and lua oop
-- [ ] Learn C basics (understand Guldoman's JSON sniffer)
+- [ ] Learn C basics (to understand Guldoman's JSON sniffer)
 - [ ] Learn how to build and run Docker images with `docker` and `docker-compose`
 - [ ] Document which are the major global causes of pollution
 - [ ] Write a bash script that syncs and keeps synced a specific list of repos
