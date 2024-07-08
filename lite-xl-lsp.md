@@ -1,3 +1,9 @@
+
+- [ ] Finish the ToolBarView docs
+- [ ] Fix `devicons` manifest and update its stub
+- [ ] Study `formatter` data storage design
+- [ ] Study `snippets` data storage design
+
 - [ ] Update `zls` status to `Works`
 - [ ] Add java methods auto-import for classes/interfaces/enums
 - [ ] Add edit-after and multiple-edits
@@ -8,9 +14,4 @@
 - [ ] Write a plugin (similar to `exec`) that allows to run scripting code in a newly-spawned terminal instance
 - [ ] Finish `language_ocaml`
 - [ ] Finish `language_erlang`
-- [ ] Fix `devicons` manifest and update its stub
-- [ ] Finish the ToolBarView docs
-- [ ] Study `formatter` data storage design
-- [ ] Study `snippets` data storage design
-- [ ] 
 

@@ -2,6 +2,5 @@
 
 - [ ] Write CV INFO and DESC
 - [ ] Prepare engineering notes for [Docsity](https://www.docsity.com/en/)
-- [ ] Copy TBATE
 - [ ] Make a list of missing icons to add to https://game-icons.net
 

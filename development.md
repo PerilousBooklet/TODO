@@ -1,19 +1,24 @@
 
+- [ ] Decompile Java deps and write the script
+- [ ] Learn lua meta-tables and lua oop
+- [ ] Learn C basics (to understand Guldoman's JSON sniffer)
+- [ ] Write my personal website with info about who I am and what I do
+- [ ] Create a custom Cinnamon menu applet that can be centered on the taskbar panel
+- [ ] Complete my custom LaTeX book package
+- [ ] Add popular LaTeX and TikZ snippets to my Lite XL setup
+- [ ] Get CasaOS WebUI working on Arch Linux
+
 - [ ] Write custom menu template for [rofi](https://github.com/davatorium/rofi)
 - [ ] Finish [River](https://isaacfreund.com/software/river/) WM setup
 - [ ] Write custom menu template for [rofi](https://github.com/davatorium/rofi)
 - [ ] Add custom title to rofi workspace script
 - [ ] Tinker with eww widgets
-- [ ] Complete my custom LaTeX book package
 - [ ] Remove custom GUI textures from [Tom's Storage Create GUI](https://www.curseforge.com/minecraft/texture-packs/create-simple-storage)
 - [ ] Recover `Halcyon Days Skies` resource pack from `Iskall85's Island` or `Iskall85's Survival Stories 3`
 - [ ] Model Arch Linux logo for my Qube 500 Flatpack
 - [ ] Tinker with Minecraft 1.20.1 modding
 - [ ] Tinker with Minetest modding
-- [ ] Add popular LaTeX and TikZ snippets to my Lite XL setup
 - [ ] Write/contribute-to Steam layer for Subnautica
-- [ ] Get CasaOS WebUI working on Arch Linux
-- [ ] Decompile Java deps and write the script
 - [ ] Make a simple mod for Warzone2100
 - [ ] Make simple templates for the following:
   - [ ] Bash + dialog
@@ -27,15 +32,11 @@
   - [ ] Lua + love2d
   - [ ] Rust + GTK
 - [ ] Learn to write custom TeX classes
-- [ ] Learn lua meta-tables and lua oop
-- [ ] Learn C basics (to understand Guldoman's JSON sniffer)
 - [ ] Learn how to build and run Docker images with `docker` and `docker-compose`
 - [ ] Write a bash script that syncs and keeps synced a specific list of repos
 - [ ] Write my own toy scripting language called `broccol`
 - [ ] Create my own card game (?)
-- [ ] Write my personal website with info about who I am and what I do
 - [ ] Build a macro keyboard
-- [ ] Create a custom Cinnamon menu applet that can be centered on the taskbar panel
 - [ ] Design my own ATX computer case based on the Lian LI PC-Q21
 - [ ] Check the Awesome projects for missing entries
 - [ ] Mirror all my github repos to [Codeberg](https://codeberg.org/)
