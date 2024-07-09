@@ -28,4 +28,5 @@
 - [ ] Write dashboard plugin
 - [ ] Write a plugin that dynamically updates the treeview's width
 - [ ] WIP: add possibility of multiple additional toolbars existing at the same time
+- [ ] Write a visual-git-history (fill an EmptyView) plugin with a custom icon font for lines and points (inspired by gitkraken)
 
