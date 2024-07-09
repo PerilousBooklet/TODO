@@ -7,19 +7,14 @@
 - [ ] BUG: julia lsp linter can't get init answer
 - [ ] BUG: LSP: `texlab`: `\begin` doesn't trigger autocomplete on choice selection
 
-- [ ] DEVICONS: Fix and add V, F#, AWK, icons
-- [ ] Update file extensions for `devicons`, `lsp`, `lintplus` and all related `language_...` plugins
+- [ ] DEVICONS: Update file extensions for `devicons`, `lsp`, `lintplus` and all related `language_...` plugins
 - [ ] TODOTREEVIEW: add config options with `.merge`
 - [ ] TODOTREEVIEW: decrease space between icon and text
 - [ ] TODOTREEVIEW: complete dev branch (?)
-- [ ] Create a plugin to download/unpack/deobfuscate/decompile Java libs (and Minecraft jar files)
 - [ ] MDPREVIEW: add table support to `luamd`
 - [ ] MDPREVIEW: add obsidian blockquotes support to `luamd`
 - [ ] MDPREVIEW: add code to enable an easy addition of custom HTML/CSS (es. Github's labels, Obsidian's blockquotes, ...)
-
 - [ ] Write `language_manpage` and `language_awk`
-- [ ] SCM: all still open files must close after doing a `git checkout branchname`
-- [ ] SCM: add git icons
 - [ ] Write `language_autohotkey_v2.lua`
 - [ ] Add java annotation syntax
 - [ ] PTM: add auto-fill for java class/interface/enum files upon creation
@@ -33,3 +28,4 @@
 - [ ] Write dashboard plugin
 - [ ] Write a plugin that dynamically updates the treeview's width
 - [ ] WIP: add possibility of multiple additional toolbars existing at the same time
+
