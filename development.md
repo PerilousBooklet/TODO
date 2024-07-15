@@ -8,6 +8,16 @@
 - [ ] Add popular LaTeX and TikZ snippets to my Lite XL setup
 - [ ] Get CasaOS WebUI working on Arch Linux
 
+- [ ] Design and print my 17L ATX PC case (with Corsair SF450 Platinum, Noctua NH-U9S and Sapphire Pulse RX 6600)
+<!-- - [ ] Design my own ATX computer case based on the Lian LI PC-Q21 with FreeCAD's Sheetmetal workbench -->
+
+- [ ] Open source game prototypes
+  - [ ] Art of Rally (assets inspired by Art of Rally)
+  - [ ] Skyrim
+  - [ ] Space Engineers
+  - [ ] Subnautica (assets inspired by Abzu)
+  - [ ] World of Tanks (low poly assets)
+
 - [ ] Write custom menu template for [rofi](https://github.com/davatorium/rofi)
 - [ ] Finish [River](https://isaacfreund.com/software/river/) WM setup
 - [ ] Write custom menu template for [rofi](https://github.com/davatorium/rofi)
@@ -37,7 +47,6 @@
 - [ ] Write my own toy scripting language called `broccol`
 - [ ] Create my own card game (?)
 - [ ] Build a macro keyboard
-- [ ] Design my own ATX computer case based on the Lian LI PC-Q21
 - [ ] Check the Awesome projects for missing entries
 - [ ] Mirror all my github repos to [Codeberg](https://codeberg.org/)
 - [ ] Write a simple webapp that keeps track of global food production and related pollution
@@ -46,4 +55,3 @@
 - [ ] Setup River
 - [ ] Setup the Windows 10 UI on Arch with [this](https://www.reddit.com/r/linux/comments/o9l0le/a_program_that_looks_and_works_like_the_windows/)
 - [ ] Setup the Windows 11 UI on Arch with [this](https://www.reddit.com/r/unixporn/comments/13zdhqd/hyprland_windows_rice_with_too_much_eww_with_blur/)
-- [ ] 

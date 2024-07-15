@@ -13,6 +13,7 @@
 - [ ] TODOTREEVIEW: complete dev branch (?)
 - [ ] MDPREVIEW: add table support to `luamd`
 - [ ] MDPREVIEW: add obsidian blockquotes support to `luamd`
+- [ ] MDPREVIEW: add Github Flavoured Markdown components
 - [ ] MDPREVIEW: add code to enable an easy addition of custom HTML/CSS (es. Github's labels, Obsidian's blockquotes, ...)
 - [ ] Write `language_manpage` and `language_awk`
 - [ ] Write `language_autohotkey_v2.lua`
