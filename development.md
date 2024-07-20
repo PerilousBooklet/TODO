@@ -11,6 +11,7 @@
 - [ ] Design and print my 17L ATX PC case (with Corsair SF450 Platinum, Noctua NH-U9S and Sapphire Pulse RX 6600)
 <!-- - [ ] Design my own ATX computer case based on the Lian LI PC-Q21 with FreeCAD's Sheetmetal workbench -->
 
+- [ ] Make a list of missing icons to add to https://game-icons.net
 - [ ] Open source game prototypes
   - [ ] Art of Rally (assets inspired by Art of Rally)
   - [ ] Skyrim

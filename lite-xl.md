@@ -1,6 +1,7 @@
 
 - [ ] Write a Tomorrow Night theme
 - [ ] Write an Obsidian theme
+- [ ] Check the syntax plugins in `data/plugins` for missing patterns
 
 - [ ] MISSING FEATURE: add `create-cursor-all-instances-case-sensitive`
 - [ ] MISSING FEATURE: add `create-cursor-all-instances-case-insensitive`

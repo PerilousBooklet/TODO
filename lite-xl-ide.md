@@ -22,4 +22,7 @@
 - [ ] PTM: Add custom config files for the LSP servers that require them
 - [ ] FORMATTER: Add all remaining formatters
 - [ ] FORMATTER: Add the functionality for `code-insert-into-file`
+- [ ] FORMATTER: `config.format_on_save` should be `config.plugins.formatter.format_on_save`
+- [ ] FORMATTER: rework data storage (convert to the system used by `snippets`)
+- [ ] FORMATTER: update formatter run calls (`os.exec()` -> `process.start()`)
 
