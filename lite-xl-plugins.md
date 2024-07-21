@@ -6,6 +6,10 @@
 - [ ] BUG: julia lsp linter can't get init answer
 - [ ] BUG: LSP: `texlab`: `\begin` doesn't trigger autocomplete on choice selection
 
+- [ ] Finish Svelte syntax PR
+- [ ] Finish OCaml syntax PR
+- [ ] Finish Erlang syntax PR
+
 - [ ] DEVICONS: Update file extensions for `devicons`, `lsp`, `lintplus` and all related `language_...` plugins
 - [ ] TODOTREEVIEW: rework config options with `common.merge`
 - [ ] TODOTREEVIEW: decrease space between icon and text
@@ -13,7 +17,7 @@
 - [ ] MDPREVIEW: add obsidian blockquotes support to `luamd`
 - [ ] MDPREVIEW: add Github Flavoured Markdown components
 - [ ] MDPREVIEW: add code to enable an easy addition of custom HTML/CSS (es. Github's labels, Obsidian's blockquotes, ...)
-- [ ] Write `language_manpage` and `language_awk`
+- [ ] Write `language_manpage`
 - [ ] Write `language_autohotkey_v2.lua`
 - [ ] Add java annotation syntax
 - [ ] PTM: add auto-fill for java class/interface/enum files upon creation
