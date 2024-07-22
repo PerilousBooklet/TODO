@@ -2,34 +2,26 @@
 - [ ] BUG: `lint+` can't open `.nim` files
 - [ ] BUG: `language_bash`: whenever a string followed by the `{` character is written, the syntax highlighting registers that the string is still open (as if there was a missing `}`)
 - [ ] BUG: tabicons which use an extension that contains another extension (at the end: es. `.config.js`) do not show their icon, instead they show the parent extension's icon
-- [ ] BUG: julia lsp linter isn't enabled (custom config file ?)
-- [ ] BUG: julia lsp linter can't get init answer
 - [ ] BUG: LSP: `texlab`: `\begin` doesn't trigger autocomplete on choice selection
+- [ ] BUG: julia lsp linter can't get init answer
+- [ ] BUG: julia lsp linter isn't enabled (custom config file ?)
 
 - [ ] Finish Svelte syntax PR
 - [ ] Finish OCaml syntax PR
 - [ ] Finish Erlang syntax PR
+- [ ] Write `language_manpage`
+- [ ] Write `language_autohotkey_v2.lua`
+- [ ] Add java annotation syntax
 
-- [ ] DEVICONS: Update file extensions for `devicons`, `lsp`, `lintplus` and all related `language_...` plugins
-- [ ] TODOTREEVIEW: rework config options with `common.merge`
-- [ ] TODOTREEVIEW: decrease space between icon and text
 - [ ] MDPREVIEW: add table support to `luamd`
 - [ ] MDPREVIEW: add obsidian blockquotes support to `luamd`
 - [ ] MDPREVIEW: add Github Flavoured Markdown components
 - [ ] MDPREVIEW: add code to enable an easy addition of custom HTML/CSS (es. Github's labels, Obsidian's blockquotes, ...)
-- [ ] Write `language_manpage`
-- [ ] Write `language_autohotkey_v2.lua`
-- [ ] Add java annotation syntax
-- [ ] PTM: add auto-fill for java class/interface/enum files upon creation
+
 - [ ] `regex:find` and `regex:replace` need to be more visible
-- [ ] Write a plugin that fills a newly-created java class/interface/enum file with the package path, class/interface/enum name and constructor
-- [ ] MISSING FEATURE: SCM: lacks proper git support (VSCode-like)
-- [ ] MISSING FEATURE: project-wide refactoring command + custom tab to choose which entries to ignore, see [jgmdev's PR](https://github.com/pragtical/pragtical/pull/48)
-- [ ] MISSING FEATURE: doc symbols treeview
-- [ ] MISSING FEATURE: `lint+` lacks multi-line message support
 - [ ] Add html/css code examples for Github blockquotes (example file in `downloads` folder)
+- [ ] WIP: add possibility of multiple additional toolbars existing at the same time
+
 - [ ] Write dashboard plugin
 - [ ] Write a plugin that dynamically updates the treeview's width
-- [ ] WIP: add possibility of multiple additional toolbars existing at the same time
-- [ ] Write a visual-git-history (fill an EmptyView) plugin with a custom icon font for lines and points (inspired by gitkraken)
 

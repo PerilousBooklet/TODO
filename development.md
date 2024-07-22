@@ -1,9 +1,12 @@
 
 - [ ] Decompile Java deps and write the script
-- [ ] Learn lua meta-tables and lua oop
-- [ ] Learn C basics (to understand Guldoman's JSON sniffer)
-- [ ] Write my personal website with info about who I am and what I do
 - [ ] Create a custom Cinnamon menu applet that can be centered on the taskbar panel
+
+---
+
+- [ ] Learn lua meta-tables and lua oop
+- [ ] Write my personal website with info about who I am and what I do
+- [ ] Learn C basics (to understand Guldoman's JSON sniffer)
 - [ ] Complete my custom LaTeX book package
 - [ ] Add popular LaTeX and TikZ snippets to my Lite XL setup
 - [ ] Get CasaOS WebUI working on Arch Linux
@@ -14,8 +17,8 @@
 - [ ] Make a list of missing icons to add to https://game-icons.net
 - [ ] Open source game prototypes
   - [ ] Art of Rally (assets inspired by Art of Rally)
-  - [ ] Skyrim
-  - [ ] Space Engineers
+  - [ ] Skyrim (Ethra-like graphics)
+  - [ ] Space Engineers (expand Zylann's Space Demo)
   - [ ] Subnautica (assets inspired by Abzu)
   - [ ] World of Tanks (low poly assets)
 
@@ -56,3 +59,4 @@
 - [ ] Setup River
 - [ ] Setup the Windows 10 UI on Arch with [this](https://www.reddit.com/r/linux/comments/o9l0le/a_program_that_looks_and_works_like_the_windows/)
 - [ ] Setup the Windows 11 UI on Arch with [this](https://www.reddit.com/r/unixporn/comments/13zdhqd/hyprland_windows_rice_with_too_much_eww_with_blur/)
+
