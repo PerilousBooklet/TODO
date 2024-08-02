@@ -17,6 +17,7 @@
 - [ ] SCM: add proper (VSCode-like) git support
 - [ ] SCM: add a visual git-history tab with a custom icon font for lines and points (inspired by gitkraken, use EmptyView)
 
+- [ ] LSP: standardize (when possible) LSP servers install instructions in the `config.lua`
 - [ ] LSP: Fix `devicons` manifest and update its stub
 - [ ] LSP: Update `zls` status to `Works`
 - [ ] LSP: Study `formatter` data storage design

@@ -1,5 +1,5 @@
 
-- [ ] Decompile Java deps and write the script
+- [ ] Decompile Java deps and write a script that works with any `.jar` files
 - [ ] Create a custom Cinnamon menu applet that can be centered on the taskbar panel
 
 ---
