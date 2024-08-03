@@ -3,7 +3,8 @@
 - [ ] Write an Obsidian theme
 - [ ] Check the syntax plugins in `data/plugins` for missing patterns
 - [ ] Add PHP sub-syntax to `language_html`
-- [ ] Fix `language_python` comment syntax inside arrays (es. [ #... ] )
+- [ ] BUG: `language_python`: comment syntax inside arrays (es. [ #... ] )
+- [ ] BUG: `language_bash`: whenever a string followed by the `{` character is written, the syntax highlighting registers that the string is still open (as if there was a missing `}`)
 
 - [ ] MISSING FEATURE: add `create-cursor-all-instances-case-sensitive`
 - [ ] MISSING FEATURE: add `create-cursor-all-instances-case-insensitive`

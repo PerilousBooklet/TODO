@@ -1,24 +1,22 @@
 
-- [ ] Create a plugin to download/unpack/deobfuscate/decompile Java libs
+- [ ] TODOTREEVIEW: rework config options with `common.merge`
+- [ ] TODOTREEVIEW: decrease space between icon and text
+- [ ] DEVICONS: Update file extensions for `devicons`, `lsp`, `lintplus` and all related `language_...` plugins
+- [ ] Fix `devicons` manifest and update its stub
 
 ---
 
 - [ ] Add project-wide refactoring command + custom tab to choose which entries to ignore, see [jgmdev's PR](https://github.com/pragtical/pragtical/pull/48)
 - [ ] Add doc symbols treeview
 
-- [ ] TODOTREEVIEW: rework config options with `common.merge`
-- [ ] TODOTREEVIEW: decrease space between icon and text
-
-- [ ] DEVICONS: Fix and add V, F#, AWK, icons
-- [ ] DEVICONS: Update file extensions for `devicons`, `lsp`, `lintplus` and all related `language_...` plugins
+- [ ] DEVICONS: Fix and add V, F#, AWK icons
 
 - [ ] SCM: add git icons
 - [ ] SCM: all still open files must close after doing a `git checkout branchname`
 - [ ] SCM: add proper (VSCode-like) git support
-- [ ] SCM: add a visual git-history tab with a custom icon font for lines and points (inspired by gitkraken, use EmptyView)
+- [ ] SCM: add a visual git-history tab with a custom icon font for lines and points (inspired by gitkraken, use EmptyView) (?)
 
 - [ ] LSP: standardize (when possible) LSP servers install instructions in the `config.lua`
-- [ ] LSP: Fix `devicons` manifest and update its stub
 - [ ] LSP: Update `zls` status to `Works`
 - [ ] LSP: Study `formatter` data storage design
 - [ ] LSP: Study `snippets` data storage design
@@ -40,6 +38,6 @@
 - [ ] FORMATTER: rework data storage (convert to the system used by `snippets`)
 - [ ] FORMATTER: Add all remaining formatters
 
-- [ ] PTM: add auto-fill for java class/interface/enum files upon creation
+- [ ] PTM: add auto-fill for java class/interface/enum files upon creation (with context-menu widget to choose files)
 - [ ] PTM: Add custom config files for the LSP servers that require them
 

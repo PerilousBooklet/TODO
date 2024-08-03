@@ -1,15 +1,13 @@
 
-- [ ] Decompile Java deps and write a script that works with any `.jar` files
 - [ ] Create a custom Cinnamon menu applet that can be centered on the taskbar panel
+- [ ] Learn lua meta-tables and lua oop
 
 ---
 
-- [ ] Learn lua meta-tables and lua oop
 - [ ] Write my personal website with info about who I am and what I do
 - [ ] Learn C basics (to understand Guldoman's JSON sniffer)
 - [ ] Complete my custom LaTeX book package
 - [ ] Add popular LaTeX and TikZ snippets to my Lite XL setup
-- [ ] Get CasaOS WebUI working on Arch Linux
 
 - [ ] Design and print my 17L ATX PC case (with Corsair SF450 Platinum, Noctua NH-U9S and Sapphire Pulse RX 6600)
 <!-- - [ ] Design my own ATX computer case based on the Lian LI PC-Q21 with FreeCAD's Sheetmetal workbench -->
@@ -48,7 +46,6 @@
 - [ ] Learn to write custom TeX classes
 - [ ] Learn how to build and run Docker images with `docker` and `docker-compose`
 - [ ] Write a bash script that syncs and keeps synced a specific list of repos
-- [ ] Write my own toy scripting language called `broccol`
 - [ ] Create my own card game (?)
 - [ ] Build a macro keyboard
 - [ ] Check the Awesome projects for missing entries
